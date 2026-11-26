@@ -1,0 +1,456 @@
+{
+  "schema_version": "1.0",
+  "seo": {
+    "title": "Praveen Kolla | Project Management & Financial Analytics",
+    "description": "Explore Praveen Kolla’s experience in project portfolio analytics, revenue forecasting, financial modeling and business intelligence."
+  },
+  "profile": {
+    "name": "Praveen Kolla",
+    "headline": "Project Management & Financial Analytics Professional",
+    "location": "Dallas, TX",
+    "email": "praveenkolla9999@gmail.com",
+    "social_links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/praveen-kolla"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Praveenkolla9"
+      }
+    ]
+  },
+  "hero": {
+    "headline": "Turning business data into better project and financial decisions.",
+    "description": "I combine project performance analytics, revenue forecasting and financial scenario modeling to support informed business decisions.",
+    "primary_cta": {
+      "label": "Explore my work",
+      "href": "#projects"
+    },
+    "secondary_cta": {
+      "label": "Get in touch",
+      "href": "#contact"
+    }
+  },
+  "about": {
+    "summary": "I hold a master’s degree in Business Analytics from Arizona State University and a bachelor’s degree in Computer Science from NIIT University. My experience spans IT project governance, hospitality revenue management, real estate cost estimation and business intelligence. I use data, reporting automation and cross-functional collaboration to improve operational and financial performance.",
+    "target_roles": [
+      "Project Manager",
+      "Project Analyst",
+      "PMO Analyst",
+      "Financial Analyst",
+      "Revenue Analyst",
+      "FP&A Analyst"
+    ]
+  },
+  "highlights": [
+    {
+      "value": "$100M",
+      "label": "Revenue portfolio managed",
+      "experience_id": "oksenholt"
+    },
+    {
+      "value": "10+",
+      "label": "IT projects analyzed",
+      "experience_id": "exp_1"
+    },
+    {
+      "value": "15%",
+      "label": "Revenue increase through pricing and forecasting",
+      "experience_id": "exp_2"
+    },
+    {
+      "value": "40%",
+      "label": "Reduction in reporting turnaround time",
+      "experience_id": "exp_2"
+    },
+    {
+      "value": "6+ hrs",
+      "label": "Weekly reporting time saved",
+      "experience_id": "exp_1"
+    },
+    {
+      "value": "8%",
+      "label": "Year-over-year RevPAR improvement",
+      "experience_id": "oksenholt"
+    }
+  ],
+  "expertise": [
+    {
+      "id": "project-management",
+      "title": "Project Management & Governance",
+      "skills": [
+        "Project scoping",
+        "Deliverable tracking",
+        "Project portfolio analysis",
+        "IT governance",
+        "Resource utilization tracking",
+        "KPI reporting",
+        "Cross-functional coordination",
+        "Team leadership",
+        "Process improvement",
+        "Lean Six Sigma methods",
+        "Technical documentation"
+      ]
+    },
+    {
+      "id": "financial-analytics",
+      "title": "Financial & Revenue Analytics",
+      "skills": [
+        "Revenue analysis",
+        "Financial scenario modeling",
+        "Cost estimation",
+        "Demand forecasting",
+        "Dynamic pricing",
+        "Revenue forecasting",
+        "Market analysis",
+        "Competitor benchmarking",
+        "Commission and fee optimization",
+        "ADR and RevPAR analysis",
+        "Statistical analysis"
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "Data & Business Intelligence",
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "ServiceNow",
+        "Track PMS",
+        "Key Data",
+        "PriceLabs",
+        "Beyond Pricing",
+        "RSMeans",
+        "Gordian cost data",
+        "Procore",
+        "pandas",
+        "scikit-learn",
+        "NLTK",
+        "Microsoft Word",
+        "PowerPoint"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp_1",
+      "company": "Sanpro Technologies, Inc.",
+      "title": "Data Analyst",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_current": true,
+      "achievements": [
+        "Analyze operational and portfolio data across 10+ IT projects to identify trends and at-risk deliverables and support IT governance.",
+        "Built automated Excel dashboards tracking resource utilization, project progress and delivery timelines, saving 6+ hours of manual reporting per week.",
+        "Deliver weekly performance reports and recommendations, improving reporting accuracy by 20%.",
+        "Built horizontal and vertical cost estimates for an 11.75-acre, five-building (72,165 SF) mixed-use retail development in Frisco, TX, using DFW market rates, RSMeans and Gordian cost data.",
+        "Modeled investment scenarios, including a sell-half/rent-half capital recycling strategy for a 28,400 SF building."
+      ]
+    },
+    {
+      "id": "oksenholt",
+      "company": "Oksenholt Capital Management",
+      "title": "Revenue Data Analyst",
+      "start_date": "2023-11",
+      "end_date": "2025-08",
+      "is_current": false,
+      "achievements": [
+        "Managed revenue for a $100M vacation rental portfolio and improved RevPAR by 8% year over year through booking and pricing analysis."
+      ],
+      "subsidiary_roles": [
+        {
+          "id": "exp_2",
+          "company": "Yonder Talent LLC",
+          "title": "Revenue Data Analyst",
+          "start_date": "2025-06",
+          "end_date": "2025-08",
+          "is_current": false,
+          "achievements": [
+            "Directed analysts and coordinated international, marketing and operations teams to execute revenue initiatives and report to clients.",
+            "Created dynamic pricing and forecasting models that increased revenue by 15%.",
+            "Standardized SQL and BI reporting workflows, reducing turnaround time by 40%.",
+            "Managed vacation rental and real estate revenue through forecasting and promotional planning."
+          ],
+          "parent_company": "Oksenholt Capital Management"
+        },
+        {
+          "id": "exp_3",
+          "company": "Fire Sky Lodging Solutions LLC",
+          "title": "Revenue Data Analyst",
+          "start_date": "2024-04",
+          "end_date": "2025-06",
+          "is_current": false,
+          "achievements": [
+            "Managed revenue performance for 2,000+ vacation rental units across Oregon, Washington, Arizona and California.",
+            "Supervised and trained a team of six, overseeing daily operations, data accuracy and execution of revenue strategies.",
+            "Optimized pricing, OTA commissions and fees using Track PMS, Key Data, PriceLabs and Beyond Pricing.",
+            "Built demand forecasts using market data, seasonal patterns and competitor benchmarks; produced weekly and monthly client reports in Excel and Tableau.",
+            "Partnered with cross-functional teams on inventory controls and promotional campaigns."
+          ],
+          "parent_company": "Oksenholt Capital Management"
+        },
+        {
+          "id": "exp_4",
+          "company": "1 Oak Media",
+          "title": "Revenue Data Analyst",
+          "start_date": "2023-11",
+          "end_date": "2024-04",
+          "is_current": false,
+          "achievements": [
+            "Built weekly and monthly dashboards and reports supporting revenue growth.",
+            "Developed pricing strategies and forecasts based on occupancy and nightly rates.",
+            "Produced revenue, pacing, average daily rate (ADR) and annual unit comparison reports."
+          ],
+          "parent_company": "Oksenholt Capital Management"
+        }
+      ]
+    },
+    {
+      "id": "exp_5",
+      "company": "Pro Inf LLC",
+      "title": "Application Developer",
+      "start_date": "2023-07",
+      "end_date": "2023-11",
+      "is_current": false,
+      "achievements": [
+        "Customized ServiceNow applications, workflows and reports to meet business requirements.",
+        "Collaborated with implementation teams and developed technical documentation.",
+        "Built interactive dashboards to support business decisions."
+      ]
+    },
+    {
+      "id": "exp_6",
+      "company": "Sreenidhi Spaces Pvt Ltd",
+      "title": "Business Analyst Intern",
+      "start_date": "2021-12",
+      "end_date": "2022-07",
+      "is_current": false,
+      "achievements": [
+        "Conducted real estate market analysis that informed pricing strategies and increased sales by 10%.",
+        "Created market intelligence reports and dashboards for stakeholders.",
+        "Used statistical models and customer behavior analysis to inform marketing efforts."
+      ]
+    },
+    {
+      "id": "exp_7",
+      "company": "Cuemath Pvt Ltd",
+      "title": "Junior Analyst Intern",
+      "start_date": "2021-01",
+      "end_date": "2021-11",
+      "is_current": false,
+      "achievements": [
+        "Analyzed CRM and business data to provide recommendations to senior management and sales teams.",
+        "Supported teacher onboarding, work segmentation and cross-team customer service activities."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "it-governance",
+      "title": "IT Project Portfolio & KPI Reporting",
+      "category": "Project Management",
+      "context": "Performance monitoring across 10+ IT projects at Sanpro Technologies.",
+      "contributions": [
+        "Analyze operational and portfolio data across 10+ IT projects to identify trends and at-risk deliverables and support IT governance.",
+        "Built automated Excel dashboards tracking resource utilization, project progress and delivery timelines, saving 6+ hours of manual reporting per week.",
+        "Deliver weekly performance reports and recommendations, improving reporting accuracy by 20%."
+      ],
+      "outcomes": [
+        {
+          "value": "6+ hours",
+          "label": "Weekly reporting time saved"
+        },
+        {
+          "value": "20%",
+          "label": "Improvement in reporting accuracy"
+        }
+      ],
+      "tools": [
+        "Excel"
+      ],
+      "experience_id": "exp_1",
+      "featured": true
+    },
+    {
+      "id": "real-estate",
+      "title": "Real Estate Cost Estimation & Investment Modeling",
+      "category": "Financial Analysis",
+      "context": "Mixed-use retail development in Frisco, Texas.",
+      "contributions": [
+        "Built horizontal and vertical cost estimates for an 11.75-acre, five-building (72,165 SF) mixed-use retail development in Frisco, TX, using DFW market rates, RSMeans and Gordian cost data.",
+        "Modeled investment scenarios, including a sell-half/rent-half capital recycling strategy for a 28,400 SF building."
+      ],
+      "outcomes": [
+        {
+          "value": "72,165 SF",
+          "label": "Development scope"
+        },
+        {
+          "value": "28,400 SF",
+          "label": "Building evaluated in investment scenario"
+        }
+      ],
+      "tools": [
+        "RSMeans",
+        "Gordian cost data",
+        "Procore",
+        "DFW market rates"
+      ],
+      "experience_id": "exp_1",
+      "featured": true
+    },
+    {
+      "id": "revenue",
+      "title": "Revenue Forecasting & Pricing Optimization",
+      "category": "Financial Analysis",
+      "context": "Vacation rental revenue management across multiple US states.",
+      "contributions": [
+        "Created dynamic pricing and forecasting models that increased revenue by 15%.",
+        "Optimized pricing, OTA commissions and fees using Track PMS, Key Data, PriceLabs and Beyond Pricing.",
+        "Built demand forecasts using market data, seasonal patterns and competitor benchmarks; produced weekly and monthly client reports in Excel and Tableau."
+      ],
+      "outcomes": [
+        {
+          "value": "15%",
+          "label": "Revenue increase"
+        },
+        {
+          "value": "8%",
+          "label": "Portfolio RevPAR growth YoY"
+        }
+      ],
+      "tools": [
+        "Excel",
+        "Tableau",
+        "PriceLabs",
+        "Beyond Pricing",
+        "Track PMS",
+        "Key Data"
+      ],
+      "experience_id": "oksenholt",
+      "featured": true
+    },
+    {
+      "id": "reporting",
+      "title": "Revenue Reporting Automation",
+      "category": "Business Intelligence",
+      "context": "Reporting process improvements at Yonder Talent.",
+      "contributions": [
+        "Standardized SQL and BI reporting workflows, reducing turnaround time by 40%."
+      ],
+      "outcomes": [
+        {
+          "value": "40%",
+          "label": "Reduction in reporting turnaround time"
+        }
+      ],
+      "tools": [
+        "SQL",
+        "BI tools"
+      ],
+      "experience_id": "exp_2",
+      "featured": false
+    },
+    {
+      "id": "apl",
+      "title": "ServiceNow Ticket Ranking",
+      "category": "Academic Capstone",
+      "context": "APL Logistics capstone, January–May 2023.",
+      "contributions": [
+        "Developed a Python deep learning/NLP model ranking future tickets from resolution notes with 94% accuracy.",
+        "Conducted exploratory data analysis to identify causes of high ticket generation.",
+        "Reduced root cause analysis effort by 10%."
+      ],
+      "outcomes": [
+        {
+          "value": "94%",
+          "label": "Model accuracy"
+        },
+        {
+          "value": "10%",
+          "label": "Reduction in root cause analysis effort"
+        }
+      ],
+      "tools": [
+        "Python",
+        "SQL",
+        "Tableau",
+        "NLP",
+        "Deep Learning",
+        "Root cause analysis"
+      ],
+      "experience_id": null,
+      "featured": false
+    },
+    {
+      "id": "crypto",
+      "title": "Cryptocurrency Topic Modeling",
+      "category": "Academic Project",
+      "context": "Analysis of cryptocurrency discussions on Reddit, January–May 2023.",
+      "contributions": [
+        "Analyzed cryptocurrency discussions using the Reddit API and NLP preprocessing.",
+        "Measured topic coherence at 0.50."
+      ],
+      "outcomes": [
+        {
+          "value": "0.50",
+          "label": "Topic coherence score"
+        }
+      ],
+      "tools": [
+        "Topic modeling",
+        "Text mining",
+        "NLP",
+        "Reddit API"
+      ],
+      "experience_id": null,
+      "featured": false
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "field": "Business Analytics",
+      "institution": "Arizona State University, W. P. Carey School of Business",
+      "location": "Tempe, AZ",
+      "start_date": "2022-07",
+      "end_date": "2023-05"
+    },
+    {
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "institution": "NIIT University",
+      "location": "Rajasthan, India",
+      "start_date": "2017-07",
+      "end_date": "2021-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "SQL (Intermediate) Certificate",
+      "issuer": null
+    },
+    {
+      "name": "Python (Basic) Certificate",
+      "issuer": null
+    },
+    {
+      "name": "OSHA 30-hour certification",
+      "issuer": null
+    },
+    {
+      "name": "Fundamentals of Revenue Management",
+      "issuer": "PriceLabs Academy"
+    }
+  ],
+  "contact": {
+    "heading": "Let’s connect",
+    "description": "Connect with me to discuss opportunities in project management, financial analysis and business analytics.",
+    "email": "praveenkolla9999@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/praveen-kolla"
+  }
+}
